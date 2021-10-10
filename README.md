@@ -4,7 +4,7 @@
 JANA
 
 
-
+<ul>
 - 👋 Hi, I’m @Jana AlSalem
 Fresh graduate of bachelor degree in
 Computer and information sciences
@@ -12,6 +12,7 @@ Computer and information sciences
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+</ul>
 
 <!---
 JanaYAlSalem/JanaYAlSalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
