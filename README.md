@@ -5,13 +5,13 @@ JANA
 
 
 <ul>
-- 👋 Hi, I’m @Jana AlSalem
-Fresh graduate of bachelor degree in
-Computer and information sciences
-- 👀 I’m interested in A.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> HI </h2>
+<li> - 👋 Hi, I’m @Jana AlSalem
+Fresh graduate of bachelor degree in Computer and information sciences </li>
+<li> - 👀 I’m interested in A. </li>
+<li> - 🌱 I’m currently learning ... </li>
+<li> - 💞️ I’m looking to collaborate on ... </li>
+<li> - 📫 How to reach me ... </li>
 </ul>
 
 <!---
