@@ -1,12 +1,7 @@
-# HI 
-
-
-JANA
-
 
 <ul>
-<h2> HI </h2>
-<li> - 👋 Hi, I’m @Jana AlSalem
+<h2> Hello There 👋</h2>
+<li> - I’m @JanaYAlSalem
 Fresh graduate of bachelor degree in Computer and information sciences </li>
 <li> - 👀 I’m interested in A. </li>
 <li> - 🌱 I’m currently learning ... </li>
