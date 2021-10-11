@@ -10,11 +10,9 @@ I’m interested in </b>Programming languages</b>, And I hope to see on my page 
 <hr>
 
 <ul>
-<h2> My social Account :</h2>
-<li> <img src="E_img.JPG" alt="campfire" /> <b>Email:</b> JanaAlSalem@outlook.sa </li>
-<li> <img src="L_img.JPG" alt="campfire" /> <b>LinkedIn:</b> [Jana AlSalem](https://www.linkedin.com/in/janaalsalem/) </li>
-</ul>
-
+<h2> My social Account :</h2></ul>
+<img src="E_img.JPG" alt="campfire" /> <b>Email:</b> JanaAlSalem@outlook.sa 
+<img src="L_img.JPG" alt="campfire" /> <b>LinkedIn:</b> [Jana AlSalem](https://www.linkedin.com/in/janaalsalem/)
 [Jana AlSalem](https://www.linkedin.com/in/janaalsalem/)
 
 
