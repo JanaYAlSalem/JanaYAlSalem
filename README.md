@@ -11,8 +11,8 @@ I’m interested in </b>Programming languages</b>, And I hope to see on my page 
 <hr>
 <ul>
 <h2> My social Account :</h2>
-<li> Email: </li>
- <img src="E_img.JPG" alt="campfire" /><p> JanaAlSalem@outlook.sa </p> 
+<li> <img src="E_img.JPG" alt="campfire" /> Email: </li>
+<p> JanaAlSalem@outlook.sa </p> 
  <li> LinkedIn: </li>
  <img src="L_img.JPG" alt="campfire" /> - [JanaAlSalem] (https://www.linkedin.com/in/janaalsalem)
 </ul>
