@@ -9,13 +9,9 @@ I’m interested in </b>Programming languages</b>, And I hope to see on my page 
 <li> My social Account : </li>
  
  <img src="E_img.JPG" alt="campfire" />
- <p> 
- 
- 
- 
- 
- 
- </p>
+ <p> Email: JanaAlSalem@outlook.sa </p> <hr>
+ <img src="L_img.JPG" alt="campfire" />
+<p> LinkedIn: </p> [@JanaAlSalem] {https://www.linkedin.com/in/janaalsalem}
 </ul>
 
 <!---
