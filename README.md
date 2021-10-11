@@ -15,7 +15,7 @@ I’m interested in </b>Programming languages</b>, And I hope to see on my page 
 <li> <img src="L_img.JPG" alt="campfire" /> <b>LinkedIn:</b> [JanaAlSalem](https://www.linkedin.com/in/janaalsalem) </li>
 </ul>
 
-[GitHub](http://github.com)
+[JanaAlSalem](http://github.com)
 
 
 
