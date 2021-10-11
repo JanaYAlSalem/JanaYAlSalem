@@ -7,14 +7,12 @@
 I’m interested in </b>Programming languages</b>, And I hope to see on my page something looking for or useful.  </p></li>
 </ul>
 
-
 <hr>
+
 <ul>
 <h2> My social Account :</h2>
-<li> <img src="E_img.JPG" alt="campfire" /> Email: </li>
-<p> JanaAlSalem@outlook.sa </p> 
- <li> LinkedIn: </li>
- <img src="L_img.JPG" alt="campfire" /> - [JanaAlSalem] (https://www.linkedin.com/in/janaalsalem)
+<li> <img src="E_img.JPG" alt="campfire" /> <b>Email:</b> JanaAlSalem@outlook.sa </li>
+<li> <img src="L_img.JPG" alt="campfire" /> <b>LinkedIn:</b> [JanaAlSalem] (https://www.linkedin.com/in/janaalsalem) </li>
 </ul>
 
 
