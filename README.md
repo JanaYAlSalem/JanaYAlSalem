@@ -1,12 +1,11 @@
 
 <ul>
-<h2> Hello There 👋</h2>
-<li> - I’m <b>Jana AlSalem </b>
-a fresh graduate of bachelor degree in Computer and information sciences </li>
-<li> - 👀 I’m interested in A. </li>
-<li> - 🌱 I’m currently learning ... </li>
-<li> - 💞️ I’m looking to collaborate on ... </li>
-<li> - 📫 How to reach me ... </li>
+<h2 style="text-align: center"> Hello There 👋</h2>
+<li> I’m <b>Jana AlSalem </b> a Computer and information sciences graduate</li>
+<li>I’m interested in </b>Programming</b> </li>
+<li>  </li>
+<li> </li>
+<li>  </li> 
 </ul>
 
 <!---
